@@ -40,7 +40,9 @@ This project implements a graphical interface that allows users to draw digits, 
    cd <Computer-Vision-Image-Processing-ML>
 
 ## Screenshots 
-![alt text](https://github.com/[mggmz]/[Computer-Vision-Image-Processing-ML]/blob/[MNIST-Digit]/test_number_0.png?raw=true)
+![Image](test_number_0.png)
+![Image](test_number_5.png)
+
 
 
 
