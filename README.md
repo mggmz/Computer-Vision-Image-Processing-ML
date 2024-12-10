@@ -36,8 +36,8 @@ This project implements a graphical interface that allows users to draw digits, 
 ## 🔧 Setup Instructions
 - **Clone the Repository**:
    ```bash
-   git clone <https://github.com/mggmz/Computer-Vision-Image-Processing-ML.git>
-   cd <Computer-Vision-Image-Processing-ML>
+   git clone https://github.com/mggmz/Computer-Vision-Image-Processing-ML.git
+   cd Computer-Vision-Image-Processing-ML
 
 ## Screenshots 
 ![Image](test_number_0.png)
