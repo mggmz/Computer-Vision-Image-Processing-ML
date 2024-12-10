@@ -34,11 +34,15 @@ This project implements a graphical interface that allows users to draw digits, 
 ---
 
 ## 🔧 Setup Instructions
-
-1. **Clone the Repository**:
+- **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <https://github.com/mggmz/Computer-Vision-Image-Processing-ML.git>
+   cd <Computer-Vision-Image-Processing-ML>
+
+## Screenshots 
+![alt text](https://github.com/[mggmz]/[Computer-Vision-Image-Processing-ML]/blob/[MNIST-Digit]/test_number_0.png?raw=true)
+
+
 
 ## 📜 License
 
