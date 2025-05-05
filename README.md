@@ -53,4 +53,4 @@ This project is licensed under no License
 
 ## 📝 Acknowledgements
 
-- ** MNIST Dataset by Yann LeCun and colleagues.
+-  MNIST Dataset by Yann LeCun and colleagues.
