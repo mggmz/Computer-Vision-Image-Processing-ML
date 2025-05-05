@@ -1,4 +1,4 @@
-<img width="1189" alt="image" src="https://github.com/user-attachments/assets/86a0a3cd-fd80-4342-96e6-ddeff4bf46b7" /># 🖼️ Image Keypoint Detection — Branch README
+# 🖼️ Image Keypoint Detection — Branch README
 
 This branch is a **self-contained playground** that implements five classical key-point detectors / descriptors in **Python 3 + OpenCV**.  
 The code is meant for quick experimentation and as a stepping-stone toward deep-learning pipelines.
