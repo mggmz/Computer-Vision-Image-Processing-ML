@@ -1,4 +1,4 @@
-# 🖼️ Image Keypoint Detection — Branch README
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/86a0a3cd-fd80-4342-96e6-ddeff4bf46b7" /># 🖼️ Image Keypoint Detection — Branch README
 
 This branch is a **self-contained playground** that implements five classical key-point detectors / descriptors in **Python 3 + OpenCV**.  
 The code is meant for quick experimentation and as a stepping-stone toward deep-learning pipelines.
@@ -16,6 +16,23 @@ The code is meant for quick experimentation and as a stepping-stone toward deep-
 | `orb.py` | **ORB** – Oriented FAST & Rotated BRIEF | Adds rotation-invariant FAST plus a learned BRIEF pattern; strong speed/accuracy trade-off. :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9} |
 
 > **Why these five?** They illustrate the evolution from heavy, float-vector descriptors (SIFT) to lightweight binary descriptors (BRIEF/ORB) that often seed modern neural approaches.
+
+### Sift
+
+<img width="969" alt="Image" src="https://github.com/user-attachments/assets/9020e0d0-4cf3-43dc-bf47-0b2cedf303c8" />
+
+### Fast
+
+<img width="923" alt="Image" src="https://github.com/user-attachments/assets/fefb869b-8e1e-43a1-8687-e2012c3103e2" />
+
+### Brief
+
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/7b8cedcc-3dbd-427f-aab4-d9e35a348738" />
+
+
+### Orb
+
+<img width="1228" alt="image" src="https://github.com/user-attachments/assets/07fd8b7a-4b2a-45c7-8286-cb3586747be2" />
 
 ---
 
